@@ -1,0 +1,72 @@
+
+
+/* Card Section Start */
+
+
+.card-section{
+    margin-top: 5em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+
+.card{
+    max-width: 300px;
+    border: 2px solid black;
+    padding: 1em .5em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 1em;
+    margin-bottom: 5em;
+}
+
+.avatar-card-img{
+    max-width: 100%;
+    object-fit: cover;
+}
+
+
+/* Card Section End */
+
+
+/* Slide Section Start */
+.slide{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.slide-img{
+    max-width: 500px;
+    object-fit: cover;
+}
+
+
+/* Slide Section End */
+
+
+/* Bag Section Start */
+
+.bagarea{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bag-img-div{
+    max-width: 20%;
+    padding: 3em 1.2em;
+}
+
+.bag-img{
+    max-width: 100%;
+    object-fit: cover;
+}
+
+
+/* Bag Section  End */
+
+
